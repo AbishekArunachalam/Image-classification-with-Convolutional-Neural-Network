@@ -15,14 +15,8 @@ Save the weights of the best model in Hierarchical data format(HDF5).
 * Singular value decomposition(SGD)
 * Ada Delta
 * Nadam
-
-![Alt text](https://imgur.com/a/gXRvXQa.jpg)
 	
-Optimizer	Accuracy score
-Adam	92.6%
-Nadam	91.7%
-Adadelta	93.1%
-Sgd	89.3%
+Accuracy score for Adam-92.6%, Nadam-91.7%, Adadelta-93.1%, Sgd-89.3%.
 
 
 
