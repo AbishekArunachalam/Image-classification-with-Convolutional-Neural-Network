@@ -16,7 +16,7 @@ Save the weights of the best model in Hierarchical data format(HDF5).
 * Ada Delta
 * Nadam
 
-![alt text](https://ibb.co/bNzRGRX)
+![alt text](https://ibb.co/bNzRGRX/)
 	
 Optimizer	Accuracy score
 Adam	92.6%
