@@ -1,0 +1,2 @@
+# Image-classification-with-Convolutional-Neural-Network
+The project involves working with the famous Mnist fashion dataset to classify clothes in each category using Convolutional Neural Networks (CNN). In the part-1, transfer learning is performed by using the RESNET-50 model weights from the Keras package and classify the images. In part-2, CNN model is build from scratch by stacking layers and training on the dataset.
