@@ -5,7 +5,7 @@ In the part-1, transfer learning is performed by using the RESNET-50 model weigh
 
 In part-2, CNN model is build from scratch by stacking layers and training on the dataset to find its weights.
 
-Grid search is use to find the most optimal parameters for this model.
+Grid search is used to find the most optimal parameters for this model.
 
 Save the weights of the best model in Hierarchical data format(HDF5).
 
